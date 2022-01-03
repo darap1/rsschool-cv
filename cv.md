@@ -1,3 +1,4 @@
+[rsschool-cv](https://github.com/darap1/rsschool-cv/edit/gh-pages/cv.md)
 # Andrei Darapiyevich
 
 ## Contacts
