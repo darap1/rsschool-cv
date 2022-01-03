@@ -6,7 +6,7 @@ Locations : Poland,Warsaw\
 Phone : +48 512 282 415\
 Email : darap@mail.ru\
 Discord : darap#6696\
-GitHub : 
+GitHub : darap1
 
 ## About me : 
 Hello. My name is Andrey, I'm 28 years old, I worked as a programmer on the Belarusian railway, I haven't learned anything good in 5 years of work, so I want to become a junior frontend developer
