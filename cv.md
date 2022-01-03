@@ -18,14 +18,14 @@ Hello. My name is Andrey, I'm 28 years old, I worked as a programmer on the Bela
   * Oracle
   * Linux.
 
-## Code  :
-
-` ` ` 
-foreach (IpAddress ip in ips)` ` ` \
-        ` ` `     {` ` ` \
-            ` ` `    if ((ip.AddressFamily == AddressFamily.InterNetwork) && ip.ToString().Contains("192.")); ` ` `\
-            ` ` `     ipAdr = ip.ToString();` ` ` \
-              ` ` `      } ` ` ` 
+## Code  : 
+```
+foreach (IpAddress ip in ips)
+            {
+                if ((ip.AddressFamily == AddressFamily.InterNetwork) && ip.ToString().Contains("192."))
+                    ipAdr = ip.ToString();
+            }
+``` 
 
 
 ## Experience :
