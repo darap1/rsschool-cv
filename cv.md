@@ -2,7 +2,7 @@
 
 ## Contacts
 
-Locations : Poland,Warsaw\
+Locations : Poland,Warsawa\
 Phone : +48 512 282 415\
 Email : darap@mail.ru\
 Discord : darap#6696\
